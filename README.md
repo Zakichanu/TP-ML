@@ -1,4 +1,4 @@
-## TP-Week-1-ML
+## Week-1
 
 Rendu des 3 fichiers du Week 1 du module de machine learning
 
