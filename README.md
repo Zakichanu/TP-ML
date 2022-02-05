@@ -1,10 +1,12 @@
-## Week-1
+## Intro
 
 Rendu des 3 fichiers du Week 1 du module de machine learning
 
-## Week 2
+## Lab 1
 Rendu du TP sur les bases des modèles de régression (Location de vélo en dataset)
 
-## Week 3
-
+## Lab 2
 Rendu du TP avec le DataSet de Fifa 19
+
+## Lab 3
+Rendu du TP sur le dataset du titanic
