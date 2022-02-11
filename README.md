@@ -10,3 +10,6 @@ Rendu du TP avec le DataSet de Fifa 19
 
 ## Lab 3
 Rendu du TP sur le dataset du titanic
+
+## Lab 4
+Random sur le dataset du titanic (Merci Youssef)
